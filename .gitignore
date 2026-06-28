@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+
+# Environment files
+.env
+.env.*
+
+# Logs
+*.log
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc
+*.pem
